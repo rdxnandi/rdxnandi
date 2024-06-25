@@ -1,4 +1,5 @@
 👋 Hi, I'm Riktam
+🌱 I'm currently learning HTML/CSS JavaScript
 
 <!--
 **rdxnandi/rdxnandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
