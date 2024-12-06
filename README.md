@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Riktam
-- 🌱 I'm currently learning HTML, CSS and JavaScript
+- 🌱 I'm currently learning ReactJS
 
 <!--
 **rdxnandi/rdxnandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
