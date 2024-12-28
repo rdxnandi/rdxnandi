@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Riktam Nandi
+<h1>Hi, I'm Riktam Nandi</h1>
 - 🌱 I'm currently learning ReactJS
 
 <!--
