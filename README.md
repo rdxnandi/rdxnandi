@@ -1,4 +1,4 @@
-<h1>Hi, I'm Riktam Nandi</h1>
+<h1 align="center">Hi 👋, I'm Riktam Nandi</h1>
 - 🌱 I'm currently learning ReactJS
 
 <!--
