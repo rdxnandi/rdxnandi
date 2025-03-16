@@ -7,7 +7,7 @@
 <div align="left">
   
   - 🌱 I’m currently learning **React.js**
-  - 📫 How to reach me **riktamrdxnandi@gmailcom**
+  - 📫 How to reach me **riktamrdxnandi@gmail.com**
 </div>
 
 <br/>
