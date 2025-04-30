@@ -6,7 +6,7 @@
 
 <div align="left">
   
-  - 🌱 I’m currently learning **React.js**
+  - 🌱 I’m currently learning **Next.js** and **Node.js**
   - 📫 How to reach me **riktamrdxnandi@gmail.com**
   - 👨‍💻 All of my projects are availabel at **https://riktam-nandi-portfolio.vercel.app**
 </div>
